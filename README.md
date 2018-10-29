@@ -1,1 +1,1 @@
-# PETRAS ReTiPS - Responsible Things in Private Spaces
+# PETRAS ReTiPS - Respectful Things in Private Spaces
