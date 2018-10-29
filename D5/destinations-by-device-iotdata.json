@@ -1,0 +1,352 @@
+{
+	"Amazon Echo": {
+		"52.72.197.149": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"52.0.124.206": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"72.21.207.87": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"93.184.216.34": {
+			"city": "Norwell",
+			"organisation": "MCI Communications Services, Inc. d/b/a Verizon Business",
+			"country_name": "United States",
+			"latitude": 42.1508,
+			"longitude": -70.8228
+		},
+		"52.46.129.41": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"54.239.27.116": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"34.194.157.131": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"52.94.229.76": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"54.239.25.214": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"52.94.221.173": {
+			"city": "Dublin",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "Ireland",
+			"latitude": 53.3331,
+			"longitude": -6.2489
+		},
+		"52.94.229.215": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"52.95.112.20": {
+			"city": "Dublin",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "Ireland",
+			"latitude": 53.3331,
+			"longitude": -6.2489
+		},
+		"54.81.164.57": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"34.202.18.7": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"34.194.105.124": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"52.46.132.96": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		}
+	},
+	"Google Home": {
+		"216.58.204.36": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.206.68": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.213.67": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.201.3": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.206.106": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.198.174": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.201.14": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.204.78": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.204.46": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.206.46": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"74.125.133.188": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.208.170": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.208.174": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"173.194.76.188": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"216.58.213.74": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"172.217.23.14": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		}
+	},
+	"Sonos Speaker": {
+		"104.17.106.184": {
+			"city": "",
+			"organisation": "Cloudflare Inc",
+			"country_name": "United States",
+			"latitude": 37.751,
+			"longitude": -97.822
+		},
+		"104.17.107.184": {
+			"city": "",
+			"organisation": "Cloudflare Inc",
+			"country_name": "United States",
+			"latitude": 37.751,
+			"longitude": -97.822
+		},
+		"91.193.247.119": {
+			"city": "",
+			"organisation": "Sharpstream Ltd.",
+			"country_name": "United Kingdom",
+			"latitude": 51.4964,
+			"longitude": -0.1224
+		},
+		"34.250.194.16": {
+			"city": "Dublin",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "Ireland",
+			"latitude": 53.3331,
+			"longitude": -6.2489
+		},
+		"34.246.46.173": {
+			"city": "Dublin",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "Ireland",
+			"latitude": 53.3331,
+			"longitude": -6.2489
+		},
+		"34.251.94.130": {
+			"city": "Dublin",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "Ireland",
+			"latitude": 53.3331,
+			"longitude": -6.2489
+		},
+		"52.214.6.41": {
+			"city": "Dublin",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "Ireland",
+			"latitude": 53.3331,
+			"longitude": -6.2489
+		},
+		"34.255.118.132": {
+			"city": "Dublin",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "Ireland",
+			"latitude": 53.3331,
+			"longitude": -6.2489
+		},
+		"91.193.245.120": {
+			"city": "",
+			"organisation": "Sharpstream Ltd.",
+			"country_name": "United Kingdom",
+			"latitude": 51.4964,
+			"longitude": -0.1224
+		}
+	},
+	"Philips Hue Bridge": {
+		"104.155.18.91": {
+			"city": "Mountain View",
+			"organisation": "Google LLC",
+			"country_name": "United States",
+			"latitude": 37.419200000000004,
+			"longitude": -122.0574
+		},
+		"92.122.206.84": {
+			"city": "",
+			"organisation": "Akamai International B.V.",
+			"country_name": "",
+			"latitude": 47,
+			"longitude": 8
+		}
+	},
+	"WeMo Motion": {
+		"174.129.217.97": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"184.73.174.14": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		}
+	},
+	"WeMo Switch": {
+		"174.129.217.97": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		},
+		"184.73.174.14": {
+			"city": "Ashburn",
+			"organisation": "Amazon.com, Inc.",
+			"country_name": "United States",
+			"latitude": 39.0481,
+			"longitude": -77.4728
+		}
+	},
+	"Nokia Body Cardio": {
+		"89.30.121.150": {
+			"city": "",
+			"organisation": "BSO Network Solutions SAS",
+			"country_name": "",
+			"latitude": 47,
+			"longitude": 8
+		}
+	}
+}
