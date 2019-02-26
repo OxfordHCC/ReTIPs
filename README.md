@@ -14,4 +14,4 @@ We examined a variety of smart home devices to identify the destinations, freque
 
 ### Deliverable 6 & 7: Decision Support Tools
 
-Using the data flow models derived in D5, we created a set of decision support tools to help users understand the privacy implications of their existing devices and new potential devices they might integrate into their home. See [delivable 6 folder](D6-7)
+Using the data flow models derived in D5, we created a set of decision support tools to help users understand the privacy implications of their existing devices and new potential devices they might integrate into their home. See [delivable 6-7 folder](D6)
