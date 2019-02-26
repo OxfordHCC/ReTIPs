@@ -12,6 +12,6 @@ Deliverables 1-4 are detailed in the 6 month report.
 
 We examined a variety of smart home devices to identify the destinations, frequency and nature of any data flows from the device to first and third party sources, which can be found in the [Deliverable 5 folder](D5)
 
-### Deliverable 6: Decision Support Tools
+### Deliverable 6 & 7: Decision Support Tools
 
-Using the data flow models derived in D5, we created a set of decision support tools to help users understand the privacy implications of their existing devices and new potential devices they might integrate into their home. See [delivable 6 folder](D6)
+Using the data flow models derived in D5, we created a set of decision support tools to help users understand the privacy implications of their existing devices and new potential devices they might integrate into their home. See [delivable 6-7 folder](D6-7)
